@@ -1,0 +1,18 @@
+body{
+	background-color: #e3e3e3;
+	font-family: sans-serif;	
+}
+
+blockquote{
+	border: 1px solid white;
+	margin: 8px 10px;
+	padding: 12px 80px;
+}
+.content{
+	margin: auto;
+	width: 500px;
+	text-align: center;
+}
+#data{
+	text-align: left;
+}
